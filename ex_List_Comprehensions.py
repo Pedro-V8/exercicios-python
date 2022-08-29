@@ -1,0 +1,15 @@
+if __name__ == '__main__':
+    x = int(input())
+    y = int(input())
+    z = int(input())
+    n = int(input())
+
+    print(x)
+    print(y)
+    print(z)
+    print(n)
+
+    i , j , k = 0
+
+    
+    
