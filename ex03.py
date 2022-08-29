@@ -4,7 +4,7 @@ Faça um programa que peça dois números, base e expoente, calcule e mostre o p
 '''
 base = int(input("Base da operação: "))
 expoente = int(input("Expoente da operação: "))
-resultado = 1
+resultado = 1 #comentario
 
 if expoente == 0:
     print("1")
